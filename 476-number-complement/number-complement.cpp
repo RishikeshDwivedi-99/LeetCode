@@ -16,6 +16,6 @@ public:
             mul *= 2;
         }
 
-        return (int)ans;
+        return ans;
     }
 };
