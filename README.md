@@ -8,5 +8,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2406-decode-the-message](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/2406-decode-the-message) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
