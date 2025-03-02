@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
 | [2406-decode-the-message](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/2406-decode-the-message) |
 ## String
 |  |
@@ -14,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
