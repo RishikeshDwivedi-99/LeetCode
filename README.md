@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0011-container-with-most-water) |
 | [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
