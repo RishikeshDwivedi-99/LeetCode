@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1839-decode-xored-array](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1839-decode-xored-array) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1839-decode-xored-array](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1839-decode-xored-array) |
 <!---LeetCode Topics End-->
