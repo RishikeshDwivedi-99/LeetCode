@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Sorting
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
