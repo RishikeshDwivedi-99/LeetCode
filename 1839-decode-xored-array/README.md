@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decode-xored-array">Decode XORed Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>There is a <strong>hidden</strong> integer array <code>arr</code> that consists of <code>n</code> non-negative integers.</p>
+<h2><a href="https://leetcode.com/problems/decode-xored-array">1839. Decode XORed Array</a></h2><h3>Easy</h3><hr><p>There is a <strong>hidden</strong> integer array <code>arr</code> that consists of <code>n</code> non-negative integers.</p>
 
 <p>It was encoded into another integer array <code>encoded</code> of length <code>n - 1</code>, such that <code>encoded[i] = arr[i] XOR arr[i + 1]</code>. For example, if <code>arr = [1,0,2,1]</code>, then <code>encoded = [1,2,3]</code>.</p>
 
