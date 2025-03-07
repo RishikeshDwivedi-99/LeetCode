@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2406-decode-the-message](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/2406-decode-the-message) |
 ## Stack
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0229-majority-element-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/0011-container-with-most-water) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/RishikeshDwivedi-99/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Prefix Sum
 |  |
 | ------- |
