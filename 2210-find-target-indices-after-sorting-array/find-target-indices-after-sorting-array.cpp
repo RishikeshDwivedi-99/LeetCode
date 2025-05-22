@@ -3,14 +3,24 @@ public:
     vector<int> targetIndices(vector<int>& nums, int target) {
         vector<int> ans;
         int n = nums.size();
-        sort(nums.begin(), nums.end());
 
-        for(int i=0;i<n;i++) {
-            if(nums[i] == target) {
-                ans.push_back(i);
+        int num = 0;
+        int tcount = 0;
+
+        for(int ele : nums) {
+            if(ele < target) {
+                num++;
+            }
+            else if(ele == target){
+                tcount++;
             }
         }
 
+        while(tcount>0) {
+            ans.push_back(num);
+            num++;
+            tcount--;
+        }
         return ans;
     }
 };
